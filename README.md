@@ -6,3 +6,4 @@ Nested JPanels, Grid Layouts, Inheritance and Interfaces implementations, Event 
 algorithm calculates the resistance value by translating the three color band code of the resistor. No tolerance is calculated
 (tolarance may be the fourth and last color in a resistor)
 
+![alt text](https://github.com/leonardoARoman/Resistance-Calculator-App/blob/master/ResistorCalculatorImage.png?raw=true)
